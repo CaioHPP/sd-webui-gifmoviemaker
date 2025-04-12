@@ -3,7 +3,9 @@
 A custom extension for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) that allows users to create GIFs and movies directly from the WebUI.
 
 
-<img src="images/extension-preview.png"/>
+<img src="images/extension-preview-1.png"/>
+<img src="images/extension-preview-2.png"/>
+<img src="images/extension-preview-3.png"/>
 
 ## Table of Contents
 
