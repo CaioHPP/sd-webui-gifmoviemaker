@@ -16,7 +16,7 @@ A custom extension for [AUTOMATIC1111/stable-diffusion-webui](https://github.com
    * [Why This Extension Exists](#why-this-extension-exists)
 
 ## Example GIFs
-![Example GIF 1](https://i.imgur.com/tRCmUIv.gif)
+![Example GIF 1](https://github.com/CaioHPP/sd-webui-gifmoviemaker/releases/download/0.1.0/Output.GIF.resized.gif)
 ![Example GIF 2](https://i.imgur.com/EuPrBAL.gif)
 
 
